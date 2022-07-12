@@ -1,0 +1,20 @@
+<!DOCTYPE html>     
+<html lang="en">
+<head>
+ <meta charset="UTT-8" />
+ <title>ようこそ</title>
+</head>
+
+<body>
+    <h1>Hello World!</h1>
+    <p>みなさん、こんにちは。<br>これからよろしくお願いします。</p>
+    <img src="aisatsu2_konnichiwa.png" art="こんにちは">
+    <a href="html-sample">このページにリンク</a>
+    <ul>
+        <li>コンテンツ1</li>
+        <li>コンテンツ2</li>
+        <li>コンテンツ3</li>
+    </ul>
+</body>
+
+</html>
