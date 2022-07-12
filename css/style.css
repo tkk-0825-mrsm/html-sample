@@ -83,3 +83,32 @@ aside {
     width: 300px;
     float: left;
 }
+
+。information-list{
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.information-list li{
+    margin-bottom: 10px;
+}
+
+.staff {
+    width: 150px;
+    margin-right: 35px;
+    float: left;
+}
+
+.staff-last-chld {
+    margin-right: 0;
+}
+
+.staff-image {
+    margin-bottom: 10px;
+    width: 150px;
+    height: 150px;
+}
+
+.staff-name {
+    text-align: center;
+} 
