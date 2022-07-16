@@ -61,7 +61,7 @@ footer{
 }
 
 .card-contents{
-    padding: 40px;
+    padding: 20px;
     margin-bottom: 20px;
     background-color: #fff;
 }
@@ -84,9 +84,10 @@ aside {
     float: left;
 }
 
-。information-list{
+.information-list{
     list-style-type: none;
     padding-left: 0;
+
 }
 
 .information-list li{
